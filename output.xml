@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.2 (Python 3.7.9 on win32)" generated="20211025 17:30:10.320" rpa="false" schemaversion="2">
+<suite id="s1" name="Ex" source="D:\Amazone\TestCase\ex.robot">
+<test id="s1-t1" name="Tc1">
+<kw name="Login.Enter email">
+<msg timestamp="20211025 17:30:10.379" level="FAIL">No keyword with name 'Login.Enter email' found.</msg>
+<status status="FAIL" starttime="20211025 17:30:10.379" endtime="20211025 17:30:10.379"/>
+</kw>
+<status status="FAIL" starttime="20211025 17:30:10.375" endtime="20211025 17:30:10.381">No keyword with name 'Login.Enter email' found.</status>
+</test>
+<status status="FAIL" starttime="20211025 17:30:10.324" endtime="20211025 17:30:10.391"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Ex">Ex</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
